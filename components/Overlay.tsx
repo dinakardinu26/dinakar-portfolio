@@ -21,7 +21,7 @@ export default function Overlay() {
 
   return (
     <div className="absolute inset-0 z-10" ref={containerRef}>
-      <div className="sticky top-0 h-screen w-full flex flex-col justify-center px-8 md:px-24 pointer-events-none">
+      <div className="sticky top-0 h-[100dvh] w-full flex flex-col justify-center px-8 md:px-24 pointer-events-none">
         
         {/* Section 1 */}
         <motion.div 

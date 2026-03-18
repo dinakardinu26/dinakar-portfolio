@@ -1,6 +1,7 @@
 export default function ExpertiseSkills() {
   const skills = {
     "Programming & Data": ["Python", "SQL (MySQL, PostgreSQL)", "Pandas", "NumPy", "Scikit-Learn", "Matplotlib", "Seaborn"],
+    "AI & Prompt Engineering": ["Vibe Coding", "LLMs", "Google AI Studio", "Antigravity"],
     "Business Intelligence": ["Power BI", "Tableau", "SAP BI", "Google Data Studio"],
     "Enterprise & Tools": ["SAP ERP", "Advanced Microsoft Excel", "Google Workspace", "Google Analytics", "Meta Ads"],
     "Core Expertise": ["Performance Management Systems", "Organizational Gap Analysis", "MIS Dashboard Development", "Retail Operations Analytics", "AI Powered Workflow Automation"],

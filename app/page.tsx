@@ -10,7 +10,7 @@ import Contact from "@/components/Contact";
 
 export default function Home() {
   return (
-    <main className="bg-[#121212] min-h-screen no-scrollbar font-sans selection:bg-purple-500/30">
+    <main className="bg-[#121212] min-h-[100dvh] no-scrollbar font-sans selection:bg-purple-500/30">
       <ScrollyCanvas>
         <Overlay />
       </ScrollyCanvas>

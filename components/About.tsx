@@ -10,7 +10,7 @@ export default function About() {
         </div>
         <div className="md:w-2/3 space-y-6 text-lg text-gray-700 dark:text-gray-300 font-light leading-relaxed">
           <p>
-            I am a Data Analyst and Performance Consulting Specialist with expertise in performance management systems, business intelligence, and organizational analytics.
+            I am a Project Associate - PMS with expertise in performance management systems, business intelligence, and organizational analytics.
           </p>
           <p>
             With a strong academic background in Computer Applications and an MBA in Marketing & HR from LEAD College of Management, I bridge the gap between technical execution and high-level business strategy.
