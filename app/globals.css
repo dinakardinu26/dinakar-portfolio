@@ -1,0 +1,38 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme {
+  --color-background: var(--bg-color);
+  --color-foreground: var(--fg-color);
+}
+
+:root {
+  --bg-color: #ffffff;
+  --fg-color: #121212;
+}
+
+.dark {
+  --bg-color: #121212;
+  --fg-color: #ededed;
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--fg-color);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
