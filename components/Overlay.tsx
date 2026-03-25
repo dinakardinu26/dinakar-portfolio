@@ -14,9 +14,9 @@ export default function Overlay() {
   const opacity1 = useTransform(scrollYProgress, [0, 0.12, 0.22], [1, 1, 0]);
   const y1 = useTransform(scrollYProgress, [0, 0.22], [0, -80]);
 
-  // Section 1.5: "AI-Driven Business Excellence" — top-left, appears at 6% (looking up) fades at 24%
-  const opacity15 = useTransform(scrollYProgress, [0.04, 0.08, 0.18, 0.24], [0, 1, 1, 0]);
-  const y15 = useTransform(scrollYProgress, [0.04, 0.10], [30, 0]);
+  // Section 1.5: "AI-Driven Business Excellence" — top-left, appears at 6% (looking up) fades at 11%
+  const opacity15 = useTransform(scrollYProgress, [0.04, 0.07, 0.09, 0.11], [0, 1, 1, 0]);
+  const y15 = useTransform(scrollYProgress, [0.04, 0.09], [30, 0]);
 
   // Section 2: "Empowering Scalability." — left, 25% → 55%
   const opacity2 = useTransform(scrollYProgress, [0.25, 0.35, 0.45, 0.55], [0, 1, 1, 0]);
