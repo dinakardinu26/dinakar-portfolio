@@ -10,13 +10,16 @@ export default function About() {
         </div>
         <div className="md:w-2/3 space-y-6 text-lg text-gray-700 dark:text-gray-300 font-light leading-relaxed">
           <p>
-            I am a Project Associate - PMS with expertise in performance management systems, business intelligence, and organizational analytics.
+            I am a <strong className="font-semibold text-gray-900 dark:text-white">Project Associate in Performance Management &amp; Business Consulting</strong>, with hands-on experience in organizational performance improvement and business transformation across the manufacturing sector.
           </p>
           <p>
-            With a strong academic background in Computer Applications and an MBA in Marketing & HR from LEAD College of Management, I bridge the gap between technical execution and high-level business strategy.
+            Holding an MBA in Marketing &amp; HR from the University of Calicut and a foundation in Computer Applications, I bridge strategic business thinking with analytical rigor — enabling me to design data-driven solutions that drive measurable organizational outcomes.
           </p>
           <p>
-            Currently, as a Project Associate at HSJB Global Solutions LLP, I contribute directly to performance consulting projects involving KPI design, PMS framework development, MIS dashboards, and organizational restructuring. My focus is always purely on improving operational efficiency and helping businesses scale using data-driven strategies. I specialize in converting complex organizational data into clear, actionable insights for leadership decision-making.
+            I have contributed to multiple organizational restructuring and business transformation projects, delivering work in KPI architecture, Performance Management System (PMS) design, process optimization, MIS &amp; executive dashboard development, and cross-functional organizational analytics. My consulting engagements have spanned complex manufacturing environments where operational efficiency and structured performance governance are critical.
+          </p>
+          <p>
+            I specialize in translating complex organizational data into clear, actionable intelligence — supporting leadership teams in making informed decisions, improving process efficiency, and building scalable performance frameworks for sustainable business growth.
           </p>
           <div className="pt-6">
              <a href="/Dinakar_S_Resume.pdf" download="Dinakar_S_Resume.pdf" className="inline-flex items-center gap-2 px-6 py-3 bg-gray-900 dark:bg-white text-white dark:text-black font-semibold rounded-full hover:bg-gray-800 dark:hover:bg-gray-200 transition-colors">
