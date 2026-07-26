@@ -1,5 +1,7 @@
 export default function Projects() {
   const projects = [
+    { title: "Manufacturing Business Transformation", tech: "Org Re-engineering & PMS", desc: "Executed Strategic Way Forward planning and organizational re-engineering. Implemented robust PMS, KPI frameworks, and MIS dashboards for real-time performance monitoring and data-driven process improvements." },
+    { title: "Jewellery Enterprise Scaling", tech: "Strategic Planning & Analytics", desc: "Designed comprehensive Performance Management Systems and KPI architectures. Developed business trackers and executive reporting tools, utilizing deep data analysis to drive operational excellence." },
     { title: "Retail Chain Restructuring", tech: "Scalability Strategy", desc: "Organizational restructuring for outlets, built KPI systems and MIS dashboards. Enabled expansion with real-time dashboards." },
     { title: "Store Optimization in Retail Units", tech: "Operational Analysis", desc: "Evaluated store layout and productivity, improved workflow efficiency, identified employee bottlenecks resulting in better operational efficiency." },
     { title: "Performance Consulting", tech: "PMS Design", desc: "KPI & KRA Framework Development, Business Intelligence Dashboards, Organizational Gap Analysis." }
