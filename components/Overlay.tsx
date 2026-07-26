@@ -39,7 +39,7 @@ export default function Overlay() {
             Dinakar S.
           </h1>
           <p className="text-xl md:text-2xl text-gray-300 font-light pointer-events-auto max-w-2xl">
-            Business Intelligence &amp; Project Associate - PMS
+            Business Intelligence &amp; Project Analyst - PMS
           </p>
         </motion.div>
 

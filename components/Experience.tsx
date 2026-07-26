@@ -1,7 +1,7 @@
 export default function Experience() {
   const jobs = [
     {
-      role: "Project Associate – Data Analytics & Performance Consulting",
+      role: "Project Analyst – Data Analytics & Performance Consulting",
       company: "HSJB Global Solutions LLP",
       date: "Nov 2025 – Present",
       tasks: [

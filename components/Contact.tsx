@@ -14,7 +14,7 @@ export default function Contact() {
             <Mail size={20} />
             Email Me
           </a>
-          <a href="/Dinakar_S_Resume.pdf" download="Dinakar_S_Resume.pdf" className="inline-flex items-center gap-2 px-8 py-4 bg-purple-600 text-white font-semibold rounded-full hover:bg-purple-700 transition-colors w-full md:w-auto justify-center">
+          <a href="/Dinakar_S_PMS.pdf" download="Dinakar_S_PMS.pdf" className="inline-flex items-center gap-2 px-8 py-4 bg-purple-600 text-white font-semibold rounded-full hover:bg-purple-700 transition-colors w-full md:w-auto justify-center">
             <Download size={20} />
             Download Resume
           </a>

@@ -71,8 +71,8 @@ export default function Hero() {
             Explore My Work
           </a>
           <a
-            href="/Dinakar_S_Resume.pdf"
-            download="Dinakar_S_Resume.pdf"
+            href="/Dinakar_S_PMS.pdf"
+            download="Dinakar_S_PMS.pdf"
             className="inline-flex items-center gap-2 rounded-full border border-white/15 bg-white/5 px-7 py-3 text-sm font-semibold text-white backdrop-blur-sm transition-all hover:bg-white/10"
           >
             <Download size={16} />

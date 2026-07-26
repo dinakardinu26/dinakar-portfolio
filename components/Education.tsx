@@ -7,7 +7,7 @@ export default function Education() {
   const certs = [
     "Lean Six Sigma Green Belt – KPMG",
     "Personnel Management Workshop – NIPM",
-    "Google Digital Marketing Certification",
+    "Digital Skills: Artificial Intelligence - Accenture",
     "IBM Professional Skills Certification"
   ];
 
